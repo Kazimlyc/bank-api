@@ -3,7 +3,6 @@ package com.kamu.project.bankapi;
 import com.kamu.project.bankapi.dto.TransferRequestDto;
 import com.kamu.project.bankapi.entity.Account;
 import com.kamu.project.bankapi.repository.AccountRepository;
-import com.kamu.project.bankapi.service.AccountService;
 import com.kamu.project.bankapi.service.AccountServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
